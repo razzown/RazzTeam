@@ -1,7 +1,7 @@
 {
-  "name": "Rasz-MD",
-  "version": "8.0.0",
-  "description": "Automated whatsapp md bot created using nodejs and baileys lib",
+  "name": "Rasya-Tzy",
+  "version": "1.0.0",
+  "description": "This WhatsApp bot very simple ",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DGXeon",
+  "author": "RazzTzy",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys",
@@ -94,10 +94,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD8.git"
+    "url": "git+https://github.com/razzown/RazzTeam.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD8/issues"
+    "url": "https://github.com/razzown/RazzTeam/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD8/#readme"
+  "homepage": "https://github.com/razzown/RazzTeam"
 }
