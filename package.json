@@ -43,6 +43,8 @@
     "fs": "0.0.1-security",
     "fs-extra": "^10.0.0",
     "genshin-api": "^2.1.0",
+    "genshin": "^1.2.4",
+    "genshin-db": "^4.3.6",     
     "g-i-s": "^2.1.6",
     "google-it": "^1.6.2",
     "google-tts-api": "^2.0.2",
