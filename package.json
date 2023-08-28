@@ -42,6 +42,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
     "fs-extra": "^10.0.0",
+    "genshin-impact-api": "^1.4.0",
     "genshin-api": "^2.1.0",
     "genshin": "^1.2.4",
     "genshin-db": "^4.3.6",     
