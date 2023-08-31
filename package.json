@@ -21,7 +21,7 @@
   "author": "DGXeon",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:@ferdiz-afk/baileys",
+    "@adiwajshing/baileys": "npm:baileys@^6.0.8",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "4.0.22-alpha.0",
     "@saipulanuar/jadianime-ts": "^2.0.0",
