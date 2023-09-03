@@ -21,7 +21,7 @@
   "author": "RazzTeam",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:Prince-Mendiratta/BotsApp",
+    "@adiwajshing/baileys": "github:Prince-Mendiratta/BotsApp",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "4.0.22-alpha.0",
     "@saipulanuar/jadianime-ts": "^2.0.0",
