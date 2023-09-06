@@ -38,6 +38,7 @@
     "child_process": "^1.0.2",
     "cookie": "^0.5.0",
     "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
     "dayjs": "^1.11.9",
     "emoji-api": "^1.0.2",
     "eslint": "^8.48.0",
@@ -49,6 +50,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
     "fs-extra": "^10.0.0",
+    "gaw-cli": "^1.0.16",
     "genshin-api": "^2.1.0",
     "genshin": "^1.2.4",
     "genshin-db": "^4.3.6",     
@@ -116,4 +118,3 @@
   },
   "homepage": "https://github.com/razzown/RazzTeam/#readme"
 }
-
