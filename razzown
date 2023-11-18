@@ -1,0 +1,422 @@
+[
+{
+ "index": 0,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Dominance_Ice.png/revision/latest?cb=20210627050225",
+"bantu": "d______e i__", 
+"jawaban": "dominance ice"
+},
+{
+ "index": 1,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Sea_Halberd.png/revision/latest?cb=20220127092834",
+"bantu": "s__ hal___d",
+"jawaban": "sea halberd"
+},
+{
+ "index": 2,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Rose_Gold_Meteor.png/revision/latest?cb=20210627044010",
+"bantu": "r_s_ g__d m_t__r",
+"jawaban": "rose gold meteor"
+},
+{
+ "index": 3,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Bloodlust_Axe.png/revision/latest?cb=20210627042954",
+"bantu": "b__o_l_t a__",
+"jawaban": "bloodlust axe"
+},
+{
+ "index": 4,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hunter_Strike.png/revision/latest?cb=20210731111742",
+"bantu": "h__t_r s_r__e",
+"jawaban": "hunter strike"
+},
+{
+ "index": 5,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Blade_of_the_Heptaseas.png/revision/latest?cb=20210627031239",
+"bantu": "bl_d_ of t__ __pt_s__s",
+"jawaban": "blade of the heptaseas"
+},
+{
+ "index": 6,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Great_Dragon_Spear.png/revision/latest?cb=20230825124621",
+"bantu": "_r__t dr__o_ sp__r",
+"jawaban": "great dragon spear"
+},
+{
+ "index": 7,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Windtalker.png/revision/latest?cb=20210616130246",
+"bantu": "wi__t_l__r",
+"jawaban": "windtalker"
+},
+{
+ "index": 8,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2b/Endless_Battle.png/revision/latest?cb=20210616130038",
+"bantu": "__dl__s b_ttl_",
+"jawaban": "endless battle"
+},
+{
+ "index": 9,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Berserker%27s_Fury.png/revision/latest?cb=20210807153943",
+"bantu": "_er__rk_r's f__y",
+"jawaban": "berserker's fury"
+},
+{
+ "index": 10,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Haas%27s_Claws.png/revision/latest?cb=20210807154117",
+"bantu": "__as'_ c__ws",
+"jawaban": "haas's claws"
+},
+{
+ "index": 11,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/War_Axe.png/revision/latest?cb=20210730222830",
+"bantu": "w__ a__",
+"jawaban": "war axe"
+},
+{
+ "index": 12,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Wind_of_Nature.png/revision/latest?cb=20210912083608",
+"bantu": "w__d o_ n__u__e",
+"jawaban": "wind of nature"
+},
+{
+ "index": 13,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Golden_Staff.png/revision/latest?cb=20210627031811",
+"bantu": "g__d_n s__f_",
+"jawaban": "golden staff"
+},
+{
+ "index": 14,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Corrosion_Scythe.png/revision/latest?cb=20210627031037",
+"bantu": "c__r_s_on s_y_h_",
+"jawaban": "corrosion scythe"
+},
+{
+ "index": 15,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Demon_Hunter_Sword.png/revision/latest?cb=20210731025511",
+"bantu": "d__o_n h__t_r s__r_,",
+"jawaban": "demon hunter sword"
+},
+{
+ "index": 16,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Swift_Crossbow.png/revision/latest?cb=20230521041932",
+"bantu": "s__ft c__ss__w",
+"jawaban": "swift crossbow"
+},
+{
+ "index": 17,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Magic_Blade.png/revision/latest?cb=20210826091736",
+"bantu": "m__ic b__de",
+"jawaban": "magic blade"
+},
+{
+ "index": 18,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Fury_Hammer.png/revision/latest?cb=20210826091547",
+"bantu": "f__y h_mm__",
+"jawaban": "fury hammer"
+},
+{
+ "index": 19,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Rogue_Meteor.png/revision/latest?cb=20210924113243",
+"bantu": "r__ue m_te_t",
+"jawaban": "rogue meteor"
+},
+{
+ "index": 20,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Ogre_Tomahawk.png/revision/latest?cb=20210924113233",
+"bantu": "o__e t__ah__k",
+"jawaban": "ogre tomahawk"
+},
+{
+ "index": 21,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Legion_Sword.png/revision/latest?cb=20210826091639",
+"bantu": "l_g__n s_o_d",
+"jawaban": "legion sword"
+},
+{
+ "index": 22,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Regular_Spear.png/revision/latest?cb=20220127072851",
+"bantu": "re__u_ar s_e_r",
+"jawaban": "regular spear"
+},
+{
+ "index": 23,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Iron_Hunting_Bow.png/revision/latest?cb=20200707111850",
+"bantu": "ir_n h_n_t__g b_w",
+"jawaban": "iron hunting bow"
+},
+{
+ "index": 24,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Javelin.png/revision/latest?cb=20210921162335",
+"bantu": "j__elin",
+"jawaban": "javelin"
+},
+{
+ "index": 25,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Knife.png/revision/latest?cb=20210921162351",
+"bantu": "k_i_e",
+"jawaban": "knife"
+},
+{
+ "index": 26,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Demon_Shoes.png/revision/latest?cb=20210930073935",
+"bantu": "dem__ s_o_s",
+"jawaban": "demon shoes"
+},
+{
+ "index": 27,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Rapid_Boots.png/revision/latest?cb=20210528023337",
+"bantu": "r_p_d b__ts",
+"jawaban": "rapid boots"
+},
+{
+ "index": 28,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Swift_Boots.png/revision/latest?cb=20210627055208",
+"bantu": "s_i_t b__ts",
+"jawaban": "swift boots"
+},
+{
+ "index": 29,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Arcane_Boots.png/revision/latest?cb=20210524102639",
+"bantu": "a_c_n_ b__ts",
+"jawaban": "arcane boots"
+},
+{
+ "index": 30,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Magic_Shoes.png/revision/latest?cb=20210305060315",
+"bantu": "m_g_c s_o_s",
+"jawaban": "magic shoes"
+},
+{
+ "index": 31,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Tough_Boots.png/revision/latest?cb=20210525122900",
+"bantu": "t_u_h b__ts",
+"jawaban": "tough boots"
+},
+{
+ "index": 32,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4b/Warrior_Boots.png/revision/latest?cb=20210627055015",
+"bantu": "w_rr__r b__ts",
+"jawaban": "warrior boots"
+},
+{
+ "index": 33,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Boots.png/revision/latest?cb=20200820071611",
+"bantu": "___ts",
+"jawaban": "boots"
+},
+{
+ "index": 34,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Dagger.png/revision/latest?cb=20200707111720",
+"bantu": "d_gg__",
+"jawaban": "dagger"
+},
+{
+ "index": 35,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Power_Potion.png/revision/latest?cb=20230607084856",
+"bantu": "p_w_r p_t__n",
+"jawaban": "power potion"
+},
+{
+ "index": 36,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Flask_of_the_Oasis.png/revision/latest?cb=20230912232947",
+"bantu": "f_a_k o_ t_e o_s_s",
+"jawaban": "flask of the oasis"
+},
+{
+ "index": 37,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Genius_Wand.png/revision/latest?cb=20210627045551",
+"bantu": "g_n_u_ w_n_",
+"jawaban": "genius wand"
+},
+{
+ "index": 38,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Lightning_Truncheon.png/revision/latest?cb=20210930074036",
+"bantu": "l_g_t_i_g t_u_c_e_",
+"jawaban": "lightning truncheon"
+},
+{
+ "index": 39,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/71/Fleeting_Time.png/revision/latest?cb=20210627045422",
+"bantu": "f_ee_t_n_ t_m_",
+"jawaban": "fleeting time"
+},
+{
+ "index": 40,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Blood_Wings.png/revision/latest?cb=20210305055304",
+"bantu": "b_oo_ w_n_s",
+"jawaban": "blood wings"
+},
+{
+ "index": 41,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Clock_of_Destiny.png/revision/latest?cb=20210627045114",
+"bantu": "c_o_k o_ d_s_i_y",
+"jawaban": "clock of destiny"
+},
+{
+ "index": 42,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlium_Scythe.png/revision/latest?cb=20230714055941",
+"bantu": "s_a_l_u_m s_y_h_",
+"jawaban": "starlium scythe"
+},
+{
+ "index": 43,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Glowing_Wand.png/revision/latest?cb=20210627044158",
+"bantu": "g_o_i_g w_n_",
+"jawaban": "glowing wand"
+},
+{
+ "index": 44,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/da/Ice_Queen_Wand.png/revision/latest?cb=20210307060410",
+"bantu": "i_e q_ee_ w_n_",
+"jawaban": "ice queen wand"
+},
+{
+ "index": 45,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Concentrated_Energy.png/revision/latest?cb=20210731031308",
+"bantu": "c_nc_n_r_t_d e_e_gy",
+"jawaban": "concentrated energy"
+},
+{
+ "index": 46,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Holy_Crystal.png/revision/latest?cb=20210731030840",
+"bantu": "h_l_ c_y_t_l",
+"jawaban": "holy crystal"
+},
+{
+ "index": 47,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Divine_Glaive.png/revision/latest?cb=20210524101632",
+"bantu": "d_v_n_ g_a_v_",
+"jawaban": "divine glaive"
+},
+{
+ "index": 48,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Necklace_of_Durance.png/revision/latest?cb=20210807160423",
+"bantu": "n_c_l_c_ o_ d_r_n_e",
+"jawaban": "necklace of durance"
+},
+{
+ "index": 49,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Feather_of_Heaven.png/revision/latest?cb=20210731031043",
+"bantu": "f_a_h_r o_ h_a_e_",
+"jawaban": "feather of heaven"
+},
+{
+ "index": 50,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Winter_Truncheon.png/revision/latest?cb=20210801094844",
+"bantu": "w_n_e_",
+"jawaban": "winter"
+},
+{
+ "index": 51,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Enchanted_Talisman.png/revision/latest?cb=20210627044432",
+"bantu": "e_c_a_t_d t_l_s_an",
+"jawaban": "enchanted talisman"
+},
+{
+ "index": 52,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Elegant_Gem.png/revision/latest?cb=20210826093204",
+"bantu": "e_e_a_t g_m",
+"jawaban": "elegant gem"
+},
+{
+ "index": 53,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Exotic_Veil.png/revision/latest?cb=20210921151940",
+"bantu": "e_o_ic v_il",
+"jawaban": "exotic veil"
+},
+{
+ "index": 54,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Vampire_Mallet.png/revision/latest?cb=20200820072000",
+"bantu": "vam__re m_ll_t",
+"jawaban": "vampir mallet"
+},
+{
+ "index": 55,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Malefic_Roar.png/revision/latest?cb=20210616125818",
+"bantu": "m__e_ic r__r",
+"jawaban": "malefic roar"
+},
+{
+ "index": 56,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Blade_of_Despair.png/revision/latest?cb=20210627031620",
+"bantu": "bl_de __ d__pai_",
+"jawaban": "blade of despair"
+},
+{
+ "index": 57,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Azure_Blade.png/revision/latest?cb=20210826094413",
+"bantu": "a_u_e b_a_e",
+"jawaban": "azure blade"
+},
+{
+ "index": 58,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Tome_of_Evil.png/revision/latest?cb=20210826094339",
+"bantu": "t_me o_ e_i_",
+"jawaban": "tome of evil"
+},
+{
+ "index": 59,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Magic_Wand.png/revision/latest?cb=20231008071036",
+"bantu": "m_g_c w_n_",
+"jawaban": "magic wand"
+},
+{
+ "index": 60,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Magic_Necklace.png/revision/latest?cb=20210921161746",
+"bantu": "m_g_c n_ck_a_e",
+"jawaban": "magic necklace"
+},
+{
+ "index": 61,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Radiant_Armor.png/revision/latest?cb=20210606050700",
+"bantu": "r_d_a_t a_m_r",
+"jawaban": "radiant armor"
+},
+{
+ "index": 62,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Athena%27s_Shield.png/revision/latest?cb=20210501065421",
+"bantu": "at_e_a s_i_ld",
+"jawaban": "athena shield"
+},
+{
+ "index": 63,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Oracle.png/revision/latest?cb=20210730223052",
+"bantu": "o_a_l_",
+"jawaban": "oracle"
+},
+{
+ "index": 64,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Antique_Cuirass.png/revision/latest?cb=20210730232427",
+"bantu": "a_t_q_",
+"jawaban": "antique"
+},
+{
+ "index": 65,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Guardian_Helmet.png/revision/latest?cb=20210731111032",
+"bantu": "g_a_d_a_ h_l_et",
+"jawaban": "guardian helmet"
+},
+{
+ "index": 66,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Cursed_Helmet.png/revision/latest?cb=20210731040632",
+"bantu": "c_r_ed h_l_et",
+"jawaban": "cursed helmet"
+},
+{
+ "index": 67,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dd/Thunder_Belt.png/revision/latest?cb=20210627051952",
+"bantu": "th_n_er b_lt",
+"jawaban": "thunder belt"
+},
+{
+ "index": 68,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Queen%27s_Wings.png/revision/latest?cb=20210730230737",
+"bantu": "qu__n w_n_s",
+"jawaban": "queen wings"
+},
+{
+ "index": 69,
+  "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Blade_Armor.png/revision/latest?cb=20210627051649",
+"bantu": "bl__e ar__r",
+"jawaban": "blade armor"
+}
+  ]
