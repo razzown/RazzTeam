@@ -1,5 +1,7 @@
-[
- "Salma": "ar-EG-SalmaNeural",
+{
+"mems": [
+{
+ "SALMA": "ar-EG-SalmaNeural",
  "Shakir": "ar-EG-ShakirNeural",
  "Zariyah": "ar-SA-ZariyahNeural",
  "Hamed": "ar-SA-HamedNeural",
@@ -424,4 +426,6 @@
  "Leila": "pt-BR-LeilaNeural",
  "Yara": "pt-BR-YaraNeural",
  "Humberto": "pt-BR-HumbertoNeural"
+} 
 ]
+}
