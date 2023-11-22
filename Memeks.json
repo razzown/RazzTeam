@@ -1,4 +1,4 @@
-{
+[
  "Salma": "ar-EG-SalmaNeural",
  "Shakir": "ar-EG-ShakirNeural",
  "Zariyah": "ar-SA-ZariyahNeural",
@@ -424,4 +424,4 @@
  "Leila": "pt-BR-LeilaNeural",
  "Yara": "pt-BR-YaraNeural",
  "Humberto": "pt-BR-HumbertoNeural"
-}
+]
